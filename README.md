@@ -4,6 +4,8 @@
 - HTML5
 - CSS3
 - Javascript
+-----
+[Infinite Scroll](https://cambodianjesuss.github.io/infinite-scroll/)
 
 ## Links to my external projects
 ```
