@@ -6,6 +6,11 @@
 - Javascript
 -----
 [Infinite Scroll](https://cambodianjesuss.github.io/infinite-scroll/)
+- HTML5
+- CSS3
+- Javascript
+-----
+[Picture in Picture](https://cambodianjesuss.github.io/picture-in-picture/)
 
 ## Links to my external projects
 ```
