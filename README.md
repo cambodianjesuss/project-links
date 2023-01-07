@@ -11,7 +11,11 @@
 - Javascript
 -----
 [Picture in Picture](https://cambodianjesuss.github.io/picture-in-picture/)
-
+- HTML5
+- CSS3
+- Javascript
+-----
+[Robot Jokes](https://cambodianjesuss.github.io/robot-jokes/)
 ## Links to my external projects
 ```
 Testing webhook
