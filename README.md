@@ -21,7 +21,7 @@
 - Javascript/ VoiceRSS API, Joke API
 -----
 [Light & Dark Mode](https://cambodianjesuss.github.io/light-dark-mode/)
-## Links to my external projects
+## Links to my external projects 🙃
 
 [Glizzy](https://stately-gaufre-22f5d3.netlify.app/)
 ```
